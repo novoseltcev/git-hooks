@@ -1,0 +1,4 @@
+-   id: check-commit-msg
+    entry: commit-msg.py 
+    language: python
+    stages: [commit-msg, manual]
